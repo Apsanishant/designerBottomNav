@@ -17,3 +17,7 @@ Add your android app a beautiful bottom navigagiton bar
 	dependencies {
 	        implementation 'com.github.Apsanishant:designerBottomNav:designBottomNav'
 	}
+	
+```
+
+[![](https://jitpack.io/v/Apsanishant/designerBottomNav.svg)](https://jitpack.io/#Apsanishant/designerBottomNav)
